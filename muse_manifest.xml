@@ -1,0 +1,68 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="myportfolio16.tk" resolutions="1x" timestamp="1489171728039">
+  <folder name="css">
+    <file name="site_global.css" crc="3858932928"/>
+    <file name="master_a-master.css" crc="195208070" ref="index:about-me:portfolio:contact:gallery"/>
+    <file name="index.css" crc="485382305" ref="index"/>
+    <file name="about-me.css" crc="152769532" ref="about-me"/>
+    <file name="portfolio.css" crc="4054611100" ref="portfolio"/>
+    <file name="contact.css" crc="262399202" ref="contact"/>
+    <file name="gallery.css" crc="4148697405" ref="gallery"/>
+  </folder>
+  <folder name="assets">
+    <file name="psx_20160504_180737.jpg" crc="489310434" seo="true" mt="1463833304000"/>
+    <file name="20160324-dsc_0071-1.jpg" crc="310999216" seo="true" mt="1469115027000"/>
+    <file name="dsc_0409-7.jpg" crc="130810370" seo="true" mt="1469374366000"/>
+    <file name="20160329-dsc_0811.jpg" crc="166251674" seo="true" mt="1466700196000"/>
+    <file name="img_20160814_163830-1.jpg" crc="3934539403" seo="true" mt="1472019690000"/>
+    <file name="img_20160906_003042-1.jpg" crc="332875415" seo="true" mt="1473155529000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="museutils.js" crc="3851988764" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="museconfig.js" crc="169177150" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="webpro.js" crc="4067903014" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="require.js" crc="4108833657" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="about-me"/>
+    <file name="form_check.php" crc="121412709" ref="contact"/>
+    <file name="form_throttle.php" crc="4268640971" ref="contact"/>
+    <file name="form_process.php" crc="444429785" ref="contact"/>
+    <file name="form-u709.php" crc="148772963" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="20160324-dsc_0071-1.jpg" crc="428049998" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_20160814_163830-1.jpg" crc="517240995" seo="true" ref="index"/>
+    <file name="20160329-dsc_0811.jpg" crc="4146946287" seo="true" ref="index"/>
+    <file name="dsc_0409-7.jpg" crc="277982574" seo="true" ref="index"/>
+    <file name="dsc_1130-3.jpg" crc="3913293064" seo="true" ref="index"/>
+    <file name="img_20160906_003042-1.jpg" crc="10737374" seo="true" ref="index"/>
+    <file name="psx_20160504_180737.jpg" crc="337098753" seo="true" ref="index"/>
+    <file name="img_20161007_175034-7.jpg" crc="340804916" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u181-4.png" crc="451919650" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="u186-4.png" crc="3913431375" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="u223-4.png" crc="4065271979" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="u246-4.png" crc="4209990164" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="u267-4.png" crc="507206662" ref="index:portfolio:gallery:about-me:contact"/>
+    <file name="u568-6.png" crc="77006300" ref="index"/>
+    <file name="u762-4.png" crc="464149809" ref="about-me"/>
+    <file name="myphoto-layer 0.jpg" crc="3864329379" ref="about-me"/>
+    <file name="myphoto.jpg" crc="344788831" ref="about-me"/>
+    <file name="u721-17.png" crc="280044326" ref="contact"/>
+    <file name="u721-17-r.png" crc="413467777" ref="contact"/>
+    <file name="u721-17-m.png" crc="261102358" ref="contact"/>
+    <file name="u721-17-fs.png" crc="151009078" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3799675924" seo="true" mt="1476167236297" redirect="true"/>
+  <file name="portfolio.html" crc="526634076" seo="true" mt="1474478257608" redirect="true"/>
+  <file name="gallery.html" crc="3874187488" seo="true" mt="1474452948407" redirect="true"/>
+  <file name="about-me.html" crc="3813282515" seo="true" mt="1474457753170" redirect="true"/>
+  <file name="contact.html" crc="3784356512" seo="true" mt="1474456392539" redirect="true"/>
+</manifest>
