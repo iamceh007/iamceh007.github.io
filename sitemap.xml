@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mohamedshahi.tk/biennale-2016.html</loc>
+    <lastmod>2017-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mohamedshahi.tk/theme.html</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,13 +43,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/gallery.html</loc>
+    <loc>http://mohamedshahi.tk/portfolio.html</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/portfolio.html</loc>
+    <loc>http://mohamedshahi.tk/gallery.html</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,25 +67,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/images/dsc_1130-32.jpg</loc>
-    <lastmod>2017-03-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mohamedshahi.tk/images/img_20160906_003042-12.jpg</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/images/dsc_1283-3.jpg</loc>
+    <loc>http://mohamedshahi.tk/images/dsc_1130-32.jpg</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/images/img_20170202_164606-3.jpg</loc>
+    <loc>http://mohamedshahi.tk/images/dsc_1283-3.jpg</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -109,7 +109,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/images/psx_20160504_180737.jpg</loc>
+    <loc>http://mohamedshahi.tk/images/img_20170202_164606-3.jpg</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -187,6 +187,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://mohamedshahi.tk/images/psx_20160504_180737.jpg</loc>
+    <lastmod>2017-03-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mohamedshahi.tk/images/img_20160906_003042-1.jpg</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -211,13 +217,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/images/20160324-dsc_0071-1.jpg</loc>
+    <loc>http://mohamedshahi.tk/images/img_20160814_163830-1834x469.jpg</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mohamedshahi.tk/images/img_20160814_163830-1834x469.jpg</loc>
+    <loc>http://mohamedshahi.tk/images/20160324-dsc_0071-1.jpg</loc>
     <lastmod>2017-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
